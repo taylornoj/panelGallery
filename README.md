@@ -6,7 +6,7 @@ The task for this mini project was to build an interactive image gallery using J
 
 This project involved centering elements vertically, hiding elements and then making them visible when clicked, as well as adjusting the sizes of flex items. Beyond the starter code and implementing the project, I chose my own panel images and uploaded a different font.
 
-My Flex Panel Gallery can be viewed here: taylornoj.github.io/panelgallery/
+My Flex Panel Gallery can be viewed here: https://taylornoj.github.io/panelGallery/
 
 ## What I learned:
 - got more experience with translateY()
